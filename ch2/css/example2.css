@@ -53,3 +53,15 @@ h1 + p {
 .link-cf:active {
     background-color: chocolate;
 }
+
+#auebLogo {
+    color: lightskyblue;
+}
+
+.border-green-1 {
+    border: 1px green;
+}
+
+.border-green-2 {
+    border: 2px green;
+}
