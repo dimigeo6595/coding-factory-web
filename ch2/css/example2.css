@@ -59,9 +59,9 @@ h1 + p {
 }
 
 .border-green-1 {
-    border: 1px green;
+    border: 1px solid green;
 }
 
 .border-green-2 {
-    border: 2px green;
+    border: 2px solid green;
 }
