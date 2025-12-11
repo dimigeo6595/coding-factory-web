@@ -1,0 +1,21 @@
+body{
+    background-color: lightgray;
+}
+
+p,li{
+    color: red;
+}
+
+/* li {
+    color: red;
+} */
+
+.aueb-logo {
+    border: 1px solid green;
+    width: 400px;
+    
+}
+
+img.aueb-logo{
+    height: auto;
+}
